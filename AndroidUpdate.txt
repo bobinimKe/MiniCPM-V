@@ -1,1 +1,1 @@
-Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
+Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
