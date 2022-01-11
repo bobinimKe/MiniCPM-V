@@ -1,1 +1,1 @@
-Auto Close Tabs when Safari is Minimized or Closed
+Show Tab Count - Shows the tab count on the button that opens the tab switcher
