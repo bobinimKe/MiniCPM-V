@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
