@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Custom Start Engine - Change the search engine of Safari to any URL
