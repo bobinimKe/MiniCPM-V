@@ -1,1 +1,1 @@
-Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
+Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
