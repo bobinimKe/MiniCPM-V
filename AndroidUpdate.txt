@@ -1,1 +1,1 @@
-Fullscreen Scrolling - Hide the top bar when scrolling down
+Lock Bars - Lock the top and buttom bar into place while scrolling
