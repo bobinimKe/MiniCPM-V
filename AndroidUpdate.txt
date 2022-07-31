@@ -1,1 +1,1 @@
-Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
