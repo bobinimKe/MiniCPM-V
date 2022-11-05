@@ -1,1 +1,1 @@
-Auto Close Tabs when Safari is Minimized or Closed
+Disable tab Swiping (Only available on iOS 12 and up)
