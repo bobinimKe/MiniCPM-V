@@ -1,1 +1,1 @@
-Show Tab Count - Shows the tab count on the button that opens the tab switcher
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
