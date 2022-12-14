@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies between devices)
+Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
