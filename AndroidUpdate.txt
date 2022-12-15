@@ -1,1 +1,1 @@
-Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
+Disable Tab Limit - Disables the default tab limit (varies between devices)
