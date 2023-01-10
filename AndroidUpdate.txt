@@ -1,1 +1,1 @@
-Auto-Clear Browser Data hen Safari is Minimized or Closed
+Custom Start Engine - Change the search engine of Safari to any URL
