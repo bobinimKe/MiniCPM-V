@@ -1,1 +1,1 @@
-URL Bar Swipe Left, Right, and Down Gestures
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
