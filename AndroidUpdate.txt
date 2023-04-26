@@ -1,1 +1,1 @@
-Auto-Clear Browser Data hen Safari is Minimized or Closed
+Change the button order of the Top and Bottom Toolbars and add additional buttons
