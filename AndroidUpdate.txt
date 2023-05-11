@@ -1,1 +1,1 @@
-Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
+Disable Tab Limit - Disables the default tab limit (varies between devices)
