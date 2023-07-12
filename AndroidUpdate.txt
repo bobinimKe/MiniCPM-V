@@ -1,1 +1,1 @@
-Lock Bars - Lock the top and buttom bar into place while scrolling
+Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
