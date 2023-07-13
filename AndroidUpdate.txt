@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Lock Bars - Lock the top and buttom bar into place while scrolling
