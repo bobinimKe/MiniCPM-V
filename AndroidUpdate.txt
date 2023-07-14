@@ -1,1 +1,1 @@
-Custom Start Engine - Change the search engine of Safari to any URL
+Suppress Mailto Dialog (on iOS 10 and above)
