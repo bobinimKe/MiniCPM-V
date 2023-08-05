@@ -1,1 +1,1 @@
-Fullscreen Scrolling - Hide the top bar when scrolling down
+Change the button order of the Top and Bottom Toolbars and add additional buttons
