@@ -1,1 +1,1 @@
-Auto Close Tabs when Safari is Minimized or Closed
+URL Bar Swipe Left, Right, and Down Gestures
