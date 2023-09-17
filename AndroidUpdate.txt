@@ -1,1 +1,1 @@
-Show Tab Count - Shows the tab count on the button that opens the tab switcher
+Change the button order of the Top and Bottom Toolbars and add additional buttons
