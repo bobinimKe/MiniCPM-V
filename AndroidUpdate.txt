@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies between devices)
+URL Bar Swipe Left, Right, and Down Gestures
