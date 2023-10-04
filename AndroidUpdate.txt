@@ -1,1 +1,1 @@
-Show Tab Count - Shows the tab count on the button that opens the tab switcher
+Disable Tab Limit - Disables the default tab limit (varies between devices)
