@@ -1,1 +1,1 @@
-Show Full Site URL - Always show the full URL in the top bar
+Suppress Mailto Dialog (on iOS 10 and above)
