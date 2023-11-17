@@ -1,1 +1,1 @@
-Change the button order of the Top and Bottom Toolbars and add additional buttons
+Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
