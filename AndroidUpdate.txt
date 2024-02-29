@@ -1,1 +1,1 @@
-Custom Start Engine - Change the search engine of Safari to any URL
+Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
