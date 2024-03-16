@@ -1,1 +1,1 @@
-Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
+Auto Close Tabs when Safari is Minimized or Closed
