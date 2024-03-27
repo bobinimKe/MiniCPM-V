@@ -1,1 +1,1 @@
-URL Bar Swipe Left, Right, and Down Gestures
+Fully Disable Private Browsing
