@@ -1,1 +1,1 @@
-Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
