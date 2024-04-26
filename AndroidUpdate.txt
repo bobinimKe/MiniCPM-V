@@ -1,1 +1,1 @@
-Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
+Show Full Site URL - Always show the full URL in the top bar
